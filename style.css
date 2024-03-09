@@ -1,0 +1,11 @@
+/* Ce fichier contient les styles CSS pour la mise en forme de la page */
+
+/* Style pour le titre h1 */
+h1 {
+    color: blue; /* Change la couleur du texte en bleu */
+}
+
+/* Style pour le paragraphe p */
+p {
+    font-size: 16px; /* Définit la taille de la police à 16 pixels */
+}
